@@ -5,6 +5,12 @@ disease data and comparing machine-learning predictions. It supports interactive
 dataset exploration, individual patient prediction, bulk CSV prediction, and
 holdout-based model evaluation.
 
+## Live application
+
+Try HeartCare online:
+
+**[Open the live Streamlit app](https://heart-disease-prediction-fds.streamlit.app/)**
+
 > **Medical disclaimer:** HeartCare is an academic and educational project. It
 > is not a medical device, diagnostic tool, or substitute for advice from a
 > qualified healthcare professional. Never use an application prediction as the
